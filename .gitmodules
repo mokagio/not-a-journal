@@ -1,0 +1,3 @@
+[submodule "themes/paperback"]
+	path = themes/paperback
+	url = git@github.com:damiencaselli/paperback.git
