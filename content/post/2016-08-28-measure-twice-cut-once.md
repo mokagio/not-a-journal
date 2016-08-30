@@ -2,7 +2,7 @@
 date = "2016-08-29T17:58:17+10:00"
 draft = false
 title = "Measure Twice, Cut Once"
-
+tags = ["podcast"]
 +++
 
 In an otherwise usual conversation about Agile-slash-Scrum which tells the same

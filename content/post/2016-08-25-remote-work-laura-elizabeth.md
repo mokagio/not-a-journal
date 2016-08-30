@@ -3,7 +3,7 @@ date = "2016-08-26T07:22:59+10:00"
 draft = false
 title = "Working Remotely Interview with Laura Elizabeth"
 
-tags = "remote"
+tags = ["remote", "podcast"]
 
 +++
 
