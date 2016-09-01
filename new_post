@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -x
+
+hugo new --editor vim $1
