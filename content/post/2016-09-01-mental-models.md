@@ -5,7 +5,7 @@ title = "Using a Mental Model to Keep Sanity Through Hardships"
 
 +++
 
-In chapter 12 of "[Creativity
+In chapter 11 of "[Creativity
 Inc.](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)"
 author [Ed Catmull](https://twitter.com/edcatmull?lang=en) talks about...
 
