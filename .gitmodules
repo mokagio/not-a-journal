@@ -1,3 +1,6 @@
 [submodule "themes/paperback"]
 	path = themes/paperback
 	url = git@github.com:damiencaselli/paperback.git
+[submodule "themes/hugo-theme-slim"]
+	path = themes/hugo-theme-slim
+	url = git@github.com:zhe/hugo-theme-slim
