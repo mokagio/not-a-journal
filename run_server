@@ -1,5 +1,0 @@
-#!/bin/bash
-
-set -e
-
-hugo server -D --theme=hugo-theme-slim
