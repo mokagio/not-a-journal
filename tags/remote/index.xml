@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote on Not A Journal</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/remote/index.xml</link>
+    <description>Recent content in Remote on Not A Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/remote/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Working Remotely Interview with Laura Elizabeth</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-25-remote-work-laura-elizabeth/</link>
+      <pubDate>Fri, 26 Aug 2016 07:22:59 +1000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-25-remote-work-laura-elizabeth/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;https://freelancetransformation.com/blog/find-and-work-with-clients-remotely-with-laura-elizabeth&#34;&gt;episode 76 of the freelance transformation
+podcast&lt;/a&gt;
+Matt interviews Laura, a freelance solo designer that works entirely remotely.&lt;/p&gt;
+
+&lt;p&gt;There are a lot of good tips spread across the interview, but here&amp;rsquo;s my
+favourites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Send new clients a Starbucks/Costa/Café gift card.&lt;/li&gt;
+&lt;li&gt;Try to guest post in blogs where your target market hangs out. &lt;em&gt;Note that these are probably different from the ones where you hang out.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Use copy that connects in your website. One of her landing page says &amp;ldquo;Websites as beautiful as the code behind them&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Ask for referrals.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://calendly.com/&#34;&gt;https://calendly.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Have a &amp;ldquo;client zone&amp;rdquo; where all the deliverables and the status updates for the client are stored, so that they can acces it without calling you. Helps a lot with different time zones. Could be as simple as a Dropbox folder.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

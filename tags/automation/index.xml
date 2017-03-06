@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on Not A Journal</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/automation/index.xml</link>
+    <description>Recent content in Automation on Not A Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Freelancers&#39; Show on Automation</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-30-what-to-automate/</link>
+      <pubDate>Tue, 30 Aug 2016 09:54:41 +1000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-30-what-to-automate/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devchat.tv/freelancers/216-fs-automation&#34;&gt;Episode 216&lt;/a&gt; of &amp;ldquo;The
+Freelancers&amp;rsquo; Show&amp;rdquo; has a great and original conversation on automation.&lt;/p&gt;
+
+&lt;p&gt;Unlike many other posts and podcasts on the topic, this one focus on how to
+find out what to automate, and why you should -or shouldn&amp;rsquo;t- automate
+something.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

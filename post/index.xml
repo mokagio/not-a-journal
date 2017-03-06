@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Not A Journal</title>
+    <link>http://replace-this-with-your-hugo-site.com/post/index.xml</link>
+    <description>Recent content in Posts on Not A Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Sep 2016 09:23:12 +1000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deliberate Practice</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/2016-09-08-deliberate-practice/</link>
+      <pubDate>Thu, 08 Sep 2016 09:23:12 +1000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/2016-09-08-deliberate-practice/</guid>
+      <description>&lt;p&gt;The podcast &lt;a href=&#34;https://spec.fm/podcasts/developer-tea&#34;&gt;Developer Tea&lt;/a&gt; recently released a two part series on deliberate
+practice (&lt;a href=&#34;https://spec.fm/podcasts/developer-tea/45636&#34;&gt;part 1&lt;/a&gt; and &lt;a href=&#34;https://spec.fm/podcasts/developer-tea/45637&#34;&gt;part 2&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;I first read about deliberate practice in &amp;ldquo;&lt;a href=&#34;https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124&#34;&gt;So Good They Can&amp;rsquo;t Ignore
+You&lt;/a&gt;&amp;rdquo; by Cal
+Newport.&lt;/p&gt;
+
+&lt;p&gt;The concept is very attractive, and it has been proven very effective for
+athletes and musicians. But how can I build a deliberate practice strategy for
+my software development skills?&lt;/p&gt;
+
+&lt;p&gt;Does it even make sense?&lt;/p&gt;
+
+&lt;p&gt;It probably does, but only for a subset of things I guess. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vim/Emacs skills&lt;/li&gt;
+&lt;li&gt;Refactoring techniques&lt;/li&gt;
+&lt;li&gt;Using patterns&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I thinks all those are valuable, I myself am very serious about touch-typing
+and shaving off keystrokes from my Vim workflows, but do they really make you a
+&lt;em&gt;better&lt;/em&gt; developer?&lt;/p&gt;
+
+&lt;p&gt;I think the real skills that a software developer should hone are problem
+solving and the ability to learn new things.&lt;/p&gt;
+
+&lt;p&gt;That is why I guess I am less interested into deliberate practice as a way to
+write code faster, but more as way to improve these &lt;em&gt;lower level&lt;/em&gt; skills.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t have a recipe for deliberately practicing problem solving or learning.
+At the moment these are only two guidelines I have:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Try to solve a little logic puzzle every day&lt;/li&gt;
+&lt;li&gt;When choosing a book to read, a new programming language or framework, anything new to learn, choose things that will grow your &lt;em&gt;area of knowledge&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Freelancers&#39; Show on Automation</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-30-what-to-automate/</link>
+      <pubDate>Tue, 30 Aug 2016 09:54:41 +1000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-30-what-to-automate/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devchat.tv/freelancers/216-fs-automation&#34;&gt;Episode 216&lt;/a&gt; of &amp;ldquo;The
+Freelancers&amp;rsquo; Show&amp;rdquo; has a great and original conversation on automation.&lt;/p&gt;
+
+&lt;p&gt;Unlike many other posts and podcasts on the topic, this one focus on how to
+find out what to automate, and why you should -or shouldn&amp;rsquo;t- automate
+something.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measure Twice, Cut Once</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-28-measure-twice-cut-once/</link>
+      <pubDate>Mon, 29 Aug 2016 17:58:17 +1000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-28-measure-twice-cut-once/</guid>
+      <description>&lt;p&gt;In an otherwise usual conversation about Agile-slash-Scrum which tells the same
+old story, Matt -the host- mentioned the carpentry rule:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Measure Twice, Cut Once&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think that&amp;rsquo;s a quite cool rule, and I shall keep it close to my heart.&lt;/p&gt;
+
+&lt;p&gt;I am a software developer to the core. My ideal work day is composed of only
+coding, no meeting, no emails, only code.&lt;/p&gt;
+
+&lt;p&gt;I am aware though that &amp;ldquo;just coding&amp;rdquo; or start coding without a plan can be, and
+most likely will be, counter productive.&lt;/p&gt;
+
+&lt;p&gt;I shall keep the catchy &amp;ldquo;&lt;em&gt;Measure Twice, Cut Once&lt;/em&gt;&amp;rdquo; rule close to heart to
+remind myself that yes, estimations sucks, but at least having a plan an being
+able to prioritize what to work on is useful and will make coding easier.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working Remotely Interview with Laura Elizabeth</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-25-remote-work-laura-elizabeth/</link>
+      <pubDate>Fri, 26 Aug 2016 07:22:59 +1000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-25-remote-work-laura-elizabeth/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;https://freelancetransformation.com/blog/find-and-work-with-clients-remotely-with-laura-elizabeth&#34;&gt;episode 76 of the freelance transformation
+podcast&lt;/a&gt;
+Matt interviews Laura, a freelance solo designer that works entirely remotely.&lt;/p&gt;
+
+&lt;p&gt;There are a lot of good tips spread across the interview, but here&amp;rsquo;s my
+favourites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Send new clients a Starbucks/Costa/Café gift card.&lt;/li&gt;
+&lt;li&gt;Try to guest post in blogs where your target market hangs out. &lt;em&gt;Note that these are probably different from the ones where you hang out.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Use copy that connects in your website. One of her landing page says &amp;ldquo;Websites as beautiful as the code behind them&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Ask for referrals.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://calendly.com/&#34;&gt;https://calendly.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Have a &amp;ldquo;client zone&amp;rdquo; where all the deliverables and the status updates for the client are stored, so that they can acces it without calling you. Helps a lot with different time zones. Could be as simple as a Dropbox folder.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maxwell&#39;s Equations</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-24-17-equations-11/</link>
+      <pubDate>Wed, 24 Aug 2016 08:06:10 +1000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-24-17-equations-11/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Maxwell%27s_equations&#34;&gt;Maxwell&amp;rsquo;s equations&lt;/a&gt; are the
+11th equations of the book &amp;ldquo;&lt;a href=&#34;https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989&#34;&gt;In Pursuit of the Unknown: 17 Equations That
+Changed the
+World&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s brush over the fact that I have completely forgotten how to handle the mathematics needed to manipulated them from Uni, and talk about some cool things.&lt;/p&gt;
+
+&lt;p&gt;I like how Maxwell derived his equations from the many experiments and machines built by &lt;a href=&#34;https://en.wikipedia.org/wiki/Michael_Faraday&#34;&gt;Faraday&lt;/a&gt;. It&amp;rsquo;s like he polished Faraday&amp;rsquo;s work, or better removed the inessential part and uncovered the shiny mathematical laws that made it possible.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s also fascinating how these four equations are the first ones to unify two forces of nature. They proved how electricity and magnetism are actually two sides of the same coin: the electromagnetical force.&lt;/p&gt;
+
+&lt;p&gt;Finally, the realization that light behaves like a wave, and that it&amp;rsquo;s spectrum is way wider that visible plus ultraviolet and infrared, and the new series of discoveries and inventions it produced is inspiring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Navier-Stokes Equation</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-23-17-equations-10/</link>
+      <pubDate>Tue, 23 Aug 2016 19:22:27 +1000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-23-17-equations-10/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations&#34;&gt;Navier-Stokes
+equation&lt;/a&gt; is the
+10th equation of the book &amp;ldquo;&lt;a href=&#34;https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989&#34;&gt;In Pursuit of the Unknown: 17 Equations That
+Changed the
+World&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;This equation relates the acceleration of a small region of fluid with the
+forces that act on it.&lt;/p&gt;
+
+&lt;p&gt;The fact that this equation is at the base of the mathematical models used to
+design airplanes already makes it interesting, but what I found fascinating are
+its application to the study of how blood flows in our veins and arteries, and
+&amp;ldquo;climate change&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The fact that researchers are developing models in the attempt of understanding
+the flow of oceans and atmosphere on our planets using a 3-dimensional grid and
+applying a version of the Navies-Stokes equation to it is super cool.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
