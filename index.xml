@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Not A Journal</title>
-    <link>http://replace-this-with-your-hugo-site.com/index.xml</link>
-    <description>Recent content on Not A Journal</description>
+    <title>Not A Journal by Gio</title>
+    <link>https://mokagio.github.io/not-a-journal/index.xml</link>
+    <description>Recent content on Not A Journal by Gio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Sep 2016 09:23:12 +1000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mokagio.github.io/not-a-journal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Deliberate Practice</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/2016-09-08-deliberate-practice/</link>
+      <link>https://mokagio.github.io/not-a-journal/post/2016-09-08-deliberate-practice/</link>
       <pubDate>Thu, 08 Sep 2016 09:23:12 +1000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/2016-09-08-deliberate-practice/</guid>
+      <guid>https://mokagio.github.io/not-a-journal/post/2016-09-08-deliberate-practice/</guid>
       <description>&lt;p&gt;The podcast &lt;a href=&#34;https://spec.fm/podcasts/developer-tea&#34;&gt;Developer Tea&lt;/a&gt; recently released a two part series on deliberate
 practice (&lt;a href=&#34;https://spec.fm/podcasts/developer-tea/45636&#34;&gt;part 1&lt;/a&gt; and &lt;a href=&#34;https://spec.fm/podcasts/developer-tea/45637&#34;&gt;part 2&lt;/a&gt;).&lt;/p&gt;
 
@@ -58,10 +58,10 @@ At the moment these are only two guidelines I have:&lt;/p&gt;
     
     <item>
       <title>The Freelancers&#39; Show on Automation</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-30-what-to-automate/</link>
+      <link>https://mokagio.github.io/not-a-journal/post/2016-08-30-what-to-automate/</link>
       <pubDate>Tue, 30 Aug 2016 09:54:41 +1000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-30-what-to-automate/</guid>
+      <guid>https://mokagio.github.io/not-a-journal/post/2016-08-30-what-to-automate/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://devchat.tv/freelancers/216-fs-automation&#34;&gt;Episode 216&lt;/a&gt; of &amp;ldquo;The
 Freelancers&amp;rsquo; Show&amp;rdquo; has a great and original conversation on automation.&lt;/p&gt;
 
@@ -73,10 +73,10 @@ something.&lt;/p&gt;
     
     <item>
       <title>Measure Twice, Cut Once</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-28-measure-twice-cut-once/</link>
+      <link>https://mokagio.github.io/not-a-journal/post/2016-08-28-measure-twice-cut-once/</link>
       <pubDate>Mon, 29 Aug 2016 17:58:17 +1000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-28-measure-twice-cut-once/</guid>
+      <guid>https://mokagio.github.io/not-a-journal/post/2016-08-28-measure-twice-cut-once/</guid>
       <description>&lt;p&gt;In an otherwise usual conversation about Agile-slash-Scrum which tells the same
 old story, Matt -the host- mentioned the carpentry rule:&lt;/p&gt;
 
@@ -100,10 +100,10 @@ able to prioritize what to work on is useful and will make coding easier.&lt;/p&
     
     <item>
       <title>Working Remotely Interview with Laura Elizabeth</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-25-remote-work-laura-elizabeth/</link>
+      <link>https://mokagio.github.io/not-a-journal/post/2016-08-25-remote-work-laura-elizabeth/</link>
       <pubDate>Fri, 26 Aug 2016 07:22:59 +1000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-25-remote-work-laura-elizabeth/</guid>
+      <guid>https://mokagio.github.io/not-a-journal/post/2016-08-25-remote-work-laura-elizabeth/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;https://freelancetransformation.com/blog/find-and-work-with-clients-remotely-with-laura-elizabeth&#34;&gt;episode 76 of the freelance transformation
 podcast&lt;/a&gt;
 Matt interviews Laura, a freelance solo designer that works entirely remotely.&lt;/p&gt;
@@ -124,10 +124,10 @@ favourites:&lt;/p&gt;
     
     <item>
       <title>Maxwell&#39;s Equations</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-24-17-equations-11/</link>
+      <link>https://mokagio.github.io/not-a-journal/post/2016-08-24-17-equations-11/</link>
       <pubDate>Wed, 24 Aug 2016 08:06:10 +1000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-24-17-equations-11/</guid>
+      <guid>https://mokagio.github.io/not-a-journal/post/2016-08-24-17-equations-11/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Maxwell%27s_equations&#34;&gt;Maxwell&amp;rsquo;s equations&lt;/a&gt; are the
 11th equations of the book &amp;ldquo;&lt;a href=&#34;https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989&#34;&gt;In Pursuit of the Unknown: 17 Equations That
 Changed the
@@ -145,10 +145,10 @@ World&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
     
     <item>
       <title>Navier-Stokes Equation</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/2016-08-23-17-equations-10/</link>
+      <link>https://mokagio.github.io/not-a-journal/post/2016-08-23-17-equations-10/</link>
       <pubDate>Tue, 23 Aug 2016 19:22:27 +1000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/2016-08-23-17-equations-10/</guid>
+      <guid>https://mokagio.github.io/not-a-journal/post/2016-08-23-17-equations-10/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations&#34;&gt;Navier-Stokes
 equation&lt;/a&gt; is the
 10th equation of the book &amp;ldquo;&lt;a href=&#34;https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989&#34;&gt;In Pursuit of the Unknown: 17 Equations That
