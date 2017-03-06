@@ -1,0 +1,24 @@
+#!/bin/bash
+
+#
+# Generates new static content and deploys it to gh-pages branch
+#
+
+set -eu
+
+pushd public
+
+git checkout .
+git pull
+
+popd
+
+hugo --theme hugo-theme-slim
+
+pushd public
+
+git add .
+git commit -m "Deploy $(date)"
+git push
+
+popd
