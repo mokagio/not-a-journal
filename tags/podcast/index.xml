@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcast on Not A Journal by Gio</title>
-    <link>https://mokagio.github.io/not-a-journal/tags/podcast/index.xml</link>
+    <link>https://mokagio.github.io/not-a-journal/tags/podcast/</link>
     <description>Recent content in Podcast on Not A Journal by Gio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mokagio.github.io/not-a-journal/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2016 09:54:41 +1000</lastBuildDate>
+    
+	<atom:link href="https://mokagio.github.io/not-a-journal/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Freelancers&#39; Show on Automation</title>
@@ -14,13 +17,8 @@
       <pubDate>Tue, 30 Aug 2016 09:54:41 +1000</pubDate>
       
       <guid>https://mokagio.github.io/not-a-journal/post/2016-08-30-what-to-automate/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://devchat.tv/freelancers/216-fs-automation&#34;&gt;Episode 216&lt;/a&gt; of &amp;ldquo;The
-Freelancers&amp;rsquo; Show&amp;rdquo; has a great and original conversation on automation.&lt;/p&gt;
-
-&lt;p&gt;Unlike many other posts and podcasts on the topic, this one focus on how to
-find out what to automate, and why you should -or shouldn&amp;rsquo;t- automate
-something.&lt;/p&gt;
-</description>
+      <description>Episode 216 of &amp;ldquo;The Freelancers&amp;rsquo; Show&amp;rdquo; has a great and original conversation on automation.
+Unlike many other posts and podcasts on the topic, this one focus on how to find out what to automate, and why you should -or shouldn&amp;rsquo;t- automate something.</description>
     </item>
     
     <item>
@@ -29,25 +27,11 @@ something.&lt;/p&gt;
       <pubDate>Mon, 29 Aug 2016 17:58:17 +1000</pubDate>
       
       <guid>https://mokagio.github.io/not-a-journal/post/2016-08-28-measure-twice-cut-once/</guid>
-      <description>&lt;p&gt;In an otherwise usual conversation about Agile-slash-Scrum which tells the same
-old story, Matt -the host- mentioned the carpentry rule:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Measure Twice, Cut Once&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I think that&amp;rsquo;s a quite cool rule, and I shall keep it close to my heart.&lt;/p&gt;
-
-&lt;p&gt;I am a software developer to the core. My ideal work day is composed of only
-coding, no meeting, no emails, only code.&lt;/p&gt;
-
-&lt;p&gt;I am aware though that &amp;ldquo;just coding&amp;rdquo; or start coding without a plan can be, and
-most likely will be, counter productive.&lt;/p&gt;
-
-&lt;p&gt;I shall keep the catchy &amp;ldquo;&lt;em&gt;Measure Twice, Cut Once&lt;/em&gt;&amp;rdquo; rule close to heart to
-remind myself that yes, estimations sucks, but at least having a plan an being
-able to prioritize what to work on is useful and will make coding easier.&lt;/p&gt;
-</description>
+      <description>In an otherwise usual conversation about Agile-slash-Scrum which tells the same old story, Matt -the host- mentioned the carpentry rule:
+ Measure Twice, Cut Once
+ I think that&amp;rsquo;s a quite cool rule, and I shall keep it close to my heart.
+I am a software developer to the core. My ideal work day is composed of only coding, no meeting, no emails, only code.
+I am aware though that &amp;ldquo;just coding&amp;rdquo; or start coding without a plan can be, and most likely will be, counter productive.</description>
     </item>
     
     <item>
@@ -56,22 +40,9 @@ able to prioritize what to work on is useful and will make coding easier.&lt;/p&
       <pubDate>Fri, 26 Aug 2016 07:22:59 +1000</pubDate>
       
       <guid>https://mokagio.github.io/not-a-journal/post/2016-08-25-remote-work-laura-elizabeth/</guid>
-      <description>&lt;p&gt;In &lt;a href=&#34;https://freelancetransformation.com/blog/find-and-work-with-clients-remotely-with-laura-elizabeth&#34;&gt;episode 76 of the freelance transformation
-podcast&lt;/a&gt;
-Matt interviews Laura, a freelance solo designer that works entirely remotely.&lt;/p&gt;
-
-&lt;p&gt;There are a lot of good tips spread across the interview, but here&amp;rsquo;s my
-favourites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Send new clients a Starbucks/Costa/Café gift card.&lt;/li&gt;
-&lt;li&gt;Try to guest post in blogs where your target market hangs out. &lt;em&gt;Note that these are probably different from the ones where you hang out.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Use copy that connects in your website. One of her landing page says &amp;ldquo;Websites as beautiful as the code behind them&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Ask for referrals.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://calendly.com/&#34;&gt;https://calendly.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Have a &amp;ldquo;client zone&amp;rdquo; where all the deliverables and the status updates for the client are stored, so that they can acces it without calling you. Helps a lot with different time zones. Could be as simple as a Dropbox folder.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>In episode 76 of the freelance transformation podcast Matt interviews Laura, a freelance solo designer that works entirely remotely.
+There are a lot of good tips spread across the interview, but here&amp;rsquo;s my favourites:
+ Send new clients a Starbucks/Costa/Café gift card. Try to guest post in blogs where your target market hangs out. Note that these are probably different from the ones where you hang out. Use copy that connects in your website.</description>
     </item>
     
   </channel>

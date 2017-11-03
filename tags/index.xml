@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Not A Journal by Gio</title>
+    <link>https://mokagio.github.io/not-a-journal/tags/</link>
+    <description>Recent content in Tags on Not A Journal by Gio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Aug 2016 09:54:41 +1000</lastBuildDate>
+    
+	<atom:link href="https://mokagio.github.io/not-a-journal/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automation</title>
+      <link>https://mokagio.github.io/not-a-journal/tags/automation/</link>
+      <pubDate>Tue, 30 Aug 2016 09:54:41 +1000</pubDate>
+      
+      <guid>https://mokagio.github.io/not-a-journal/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>https://mokagio.github.io/not-a-journal/tags/podcast/</link>
+      <pubDate>Tue, 30 Aug 2016 09:54:41 +1000</pubDate>
+      
+      <guid>https://mokagio.github.io/not-a-journal/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote</title>
+      <link>https://mokagio.github.io/not-a-journal/tags/remote/</link>
+      <pubDate>Fri, 26 Aug 2016 07:22:59 +1000</pubDate>
+      
+      <guid>https://mokagio.github.io/not-a-journal/tags/remote/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,12 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Not A Journal by Gio</title>
-    <link>https://mokagio.github.io/not-a-journal/post/index.xml</link>
+    <link>https://mokagio.github.io/not-a-journal/post/</link>
     <description>Recent content in Posts on Not A Journal by Gio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2017 06:13:24 +1100</lastBuildDate>
-    <atom:link href="https://mokagio.github.io/not-a-journal/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Nov 2017 10:24:42 +1100</lastBuildDate>
+    
+	<atom:link href="https://mokagio.github.io/not-a-journal/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes from Peak: Secrets from the New Science of Expertise</title>
+      <link>https://mokagio.github.io/not-a-journal/post/notes-from-peak/</link>
+      <pubDate>Fri, 03 Nov 2017 10:24:42 +1100</pubDate>
+      
+      <guid>https://mokagio.github.io/not-a-journal/post/notes-from-peak/</guid>
+      <description>These are my rather unorganized notes from &amp;ldquo;Peak: Secrets from the New Science of Expertise&amp;rdquo; by Anders Ericsson and Robert Pool.
+Take everything with a pinch of salt. They are what I found useful and worth highlighting from the book. Their density depends in part by the state of mind in which I was when reading or listening. Some times I write a lot of notes, other times less.</description>
+    </item>
     
     <item>
       <title>Notes from Ego Is The Enemy</title>
@@ -15,153 +27,8 @@
       <pubDate>Wed, 15 Mar 2017 06:13:24 +1100</pubDate>
       
       <guid>https://mokagio.github.io/not-a-journal/post/2017-03-15-ego-is-the-enemy-notes/</guid>
-      <description>
-
-&lt;p&gt;&lt;em&gt;This are my rather not organized notes from &lt;a href=&#34;http://egoistheenemy.com&#34;&gt;Ego Is The Enemy&lt;/a&gt; by &lt;a href=&#34;https://ryanholiday.net&#34;&gt;Ryan Holiday&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Books &amp;ldquo;about philosophy&amp;rdquo;, with a cover image pointing at ancient Greece and Rome, are not what I usually read. But I&amp;rsquo;m very glad I read this. Partially inspired by the will of going out of my filter bubble (as learnt from &amp;ldquo;The Inevitable&amp;rdquo;), event though this book is not completely out of it, as it has been recommended by the engine in Audible, marked as one of the best books of 2016, and read by some friends.&lt;/p&gt;
-
-&lt;h2 id=&#34;part-1-aspiring&#34;&gt;Part 1: Aspiring&lt;/h2&gt;
-
-&lt;p&gt;The value of silence, specially now that we live in the social media world.&lt;/p&gt;
-
-&lt;p&gt;Do the work, instead of only talking about it with friends and on social media.&lt;/p&gt;
-
-&lt;p&gt;I am quite guilty of this. I want to blog, to talk at conferences, to see my Twitter followers count grow.&lt;/p&gt;
-
-&lt;p&gt;At the same time though, I am jealous and slightly &amp;ldquo;annoyed&amp;rdquo; by those people that are one step above me, the conference speaker, the bloggers, the teachers. Who are they to teach me? What are their credentials? How can they actually be doing work while being at every conference on the planet? I ask myself all these questions, partly out of jealousy yes, but also out of realism.&lt;/p&gt;
-
-&lt;p&gt;I have way more respect for those people who travel under the radar, yet achieve a lot more. The people who bootstrapped their own companies, the people that contribute to open source in their free time rather than on company time. The outsiders.&lt;/p&gt;
-
-&lt;p&gt;And so I really got touched by the chapter on the value on actually wrestling with &amp;ldquo;the void&amp;rdquo;, rather than choosing the path of least resistance and tweet about it.&lt;/p&gt;
-
-&lt;h3 id=&#34;to-be-or-to-do&#34;&gt;To be or to do&lt;/h3&gt;
-
-&lt;p&gt;This chapter is a great segue from what touched by the previous one, or at least what the previous one made me thing of.&lt;/p&gt;
-
-&lt;p&gt;The example of &lt;strong&gt;this US military coach&lt;/strong&gt; that redefined air combat, was respected by many people inside and outside the army, and had impact on a great number of future army leaders, all without ever reaching the top of the hierarchy, never appearing on public things, and being basically forgotten by history is perfect to show what&amp;rsquo;s the difference between &amp;ldquo;being&amp;rdquo; and &amp;ldquo;doing&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;As already written, I think I&amp;rsquo;m on the edge between the two right now. I feel the urge of doing, of having impact, of trying to make a difference, but at the same time I can&amp;rsquo;t let go of that feeling I get when I reach a new personal record in my Twitter followers count, or see my face in the website for a conference where I&amp;rsquo;ll talk. I want to do something, but I can&amp;rsquo;t stop trying to be something.&lt;/p&gt;
-
-&lt;h3 id=&#34;become-a-student&#34;&gt;Become a student&lt;/h3&gt;
-
-&lt;p&gt;I am a big fan of the &amp;ldquo;always be learning&amp;rdquo; school of thought. Once I realized that I don&amp;rsquo;t know anything, and I&amp;rsquo;ll never will, I changed my view of the world and actually started growing, professionally and as a person.&lt;/p&gt;
-
-&lt;p&gt;I had never though looked at this from the point of view that the book brings. Having a master, being an apprentice, is the best way to keep ego in check. You can&amp;rsquo;t be better than your master, what a great way to stay humble and grounded.&lt;/p&gt;
-
-&lt;p&gt;Also liked the &amp;ldquo;plus, equal, minus&amp;rdquo; rule.&lt;/p&gt;
-
-&lt;p&gt;I sort of have followed it already, by following smarter people than me and reading books, by chatting about ideas with people I consider peers on the CocoaHeads Slack and IRL, and by trying to mentor my junior colleagues and replying to &lt;a href=&#34;http://stackoverflow.com/users/809944/mokagio&#34;&gt;StackOverflow questions&lt;/a&gt;. I had never seen this idea expressed in such a clear and simple way though.&lt;/p&gt;
-
-&lt;h3 id=&#34;don-t-be-passionate&#34;&gt;Don&amp;rsquo;t be passionate&lt;/h3&gt;
-
-&lt;p&gt;Yet another critical point of view on our society, at least the slice of it that I see by working in tech/startup.&lt;/p&gt;
-
-&lt;p&gt;Everyone is passionate. Such a buzzword!&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Passion is a replacement for discipline, mastery, patience&amp;rdquo;. So true.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s stay grounded and not guided by our emotions.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I missed some notes session at the end of part one&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;part-2-succeeding&#34;&gt;Part 2: Succeeding&lt;/h2&gt;
-
-&lt;h3 id=&#34;always-stay-a-student&#34;&gt;Always stay a student&lt;/h3&gt;
-
-&lt;p&gt;Another chapter that resonates a lot with my values and mindset.&lt;/p&gt;
-
-&lt;p&gt;I got a bit bored at the start, the &lt;a href=&#34;https://en.wikipedia.org/wiki/Genghis_Khan&#34;&gt;Genghis Khan&lt;/a&gt; narrative was a bit too detailed, but the reasoning it enabled was worth the wait.&lt;/p&gt;
-
-&lt;p&gt;Always be learning to always be growing and always stay humble.&lt;/p&gt;
-
-&lt;p&gt;Liked the idea of trying to pick up completely new subjects to put yourself in the uncomfortable beginner mindset and stay humble. Reminded me of my friend &lt;a href=&#34;https://twitter.com/elcoian&#34;&gt;Elco Ian&lt;/a&gt; who once rocked up in the office with a used book on silver and how to work with it that he picked at random on a bookshop on the way to a plane flight.&lt;/p&gt;
-
-&lt;p&gt;I heard of this strategy already, but never really applied it. The furthest I went has been looking into learning Haskell.&lt;/p&gt;
-
-&lt;p&gt;I could talk more about this chapter, but I just walk around in circles repeating the same things. Sort of a self high five, not good.&lt;/p&gt;
-
-&lt;h3 id=&#34;don-t-tell-yourself-stories&#34;&gt;Don&amp;rsquo;t tell yourself stories&lt;/h3&gt;
-
-&lt;p&gt;Through the example of &lt;a href=&#34;https://en.wikipedia.org/wiki/Bill_Walsh_(American_football_coach)&#34;&gt;Bill Walsh&lt;/a&gt;, the coach who brought the San Francisco 49ers from the worst team of the league to Super Bowl winner in 3 years, this chapter explore the value of staying grounded and present, and to not tell ourselves that the success we had is because of some great master plan.&lt;/p&gt;
-
-&lt;p&gt;I had never thought of this.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s quite interesting actually, as I started a private &amp;ldquo;master plan&amp;rdquo; journal in which I periodically track my progress and learnings in the journey towards the loose goal of &amp;ldquo;having a company that uses technology to help humanity&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;My intent is more on journaling and retrospection, but could I be falling victim of my ego, and take pleasure in writing in my notebook like I already had achieved my goal? I&amp;rsquo;ll need to keep that in check.&lt;/p&gt;
-
-&lt;p&gt;Other two interesting things:&lt;/p&gt;
-
-&lt;p&gt;– Don&amp;rsquo;t try to build a narrative of greatness for successful people. Even if it seems like they had a plan, they really didn&amp;rsquo;t. See the example of Jeff Bezos and the many failed Google experiments.
-– What the coach focused with the 49ers was not to win the Super Bowl, but to build a number of small little habits around the behaviour and mindset of the team. This foundation then enabled them to achieved their results. I think there&amp;rsquo;s a lot a parallels that can be drawn with the personal habits, and the habits/process/culture of a tech team. &lt;em&gt;I could be biased in this by my recent shif towards tech lead and my focus on making the process of the iOS in order for it to perform better.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;know-what-matters&#34;&gt;Know what matters&lt;/h3&gt;
-
-&lt;p&gt;This chapter gave me something new. I like how all the chapters are related, but none repeats the other.&lt;/p&gt;
-
-&lt;p&gt;Knowing what matters means having a goal and staying focused on it. It sounds simple but is actually hard to achieve. It&amp;rsquo;s easy to say yes to many things and to compare ourselves to others.&lt;/p&gt;
-
-&lt;p&gt;Knowing what we want and what matters to us is key both while moving towards a goal, and once it has been reached.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s important while working towards it because it prevents getting lost in other things, wasting time and energy.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s important once the goal has been reached because it allows us to savour it, rather than just keeping to want more and the loose it all like the general turned politician turned broker turned author used as example.&lt;/p&gt;
-
-&lt;p&gt;Something that really touched me is the comparison with others and their success, or rather what we perceive like success.&lt;/p&gt;
-
-&lt;p&gt;I am &amp;ldquo;jealous&amp;rdquo; of those developers that always speak at conferences, and have many Twitter followers.&lt;/p&gt;
-
-&lt;p&gt;But the more I think about it the more I realize that while being a professional speaker could be a way to reach the impact and financial stability that I wish for my family, the way to get there is not in line with my values.&lt;/p&gt;
-
-&lt;p&gt;I don&amp;rsquo;t want to have to stay away from my family for long periods of time to speak all over the world, specially not in the coming years with babies (well at least one) around.&lt;/p&gt;
-
-&lt;p&gt;Also, the kind of impact I&amp;rsquo;m after is not just in words, but in concrete actions. Software tools to help, hardware, technology.&lt;/p&gt;
-
-&lt;p&gt;The Twitter followers are just a vanity metric. I&amp;rsquo;d rather have 0 and have my healthy family and an honest business that can support them.&lt;/p&gt;
-
-&lt;p&gt;Another thing that touched me is the saying yes to everything. In my day job at &lt;a href=&#34;https://www.iflix.com&#34;&gt;iflix&lt;/a&gt; I&amp;rsquo;m often guilty of that. Everything is interesting and important. But what really matters? What should I really focus on?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Missed a few notes taking sessions in this part.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;meditate-on-the-immensity&#34;&gt;Meditate on the immensity&lt;/h3&gt;
-
-&lt;p&gt;Suggests to go out in the wild to feel how small we are, connect with the world and the past, and become humble once more.&lt;/p&gt;
-
-&lt;p&gt;Had similar experiences while hiking, or just coming back home at night and looking at the stars.&lt;/p&gt;
-
-&lt;h3 id=&#34;be-sober&#34;&gt;Be sober&lt;/h3&gt;
-
-&lt;p&gt;Being sober and being humble are clearly correlated.&lt;/p&gt;
-
-&lt;p&gt;What I really liked about this chapter are two passages.&lt;/p&gt;
-
-&lt;p&gt;The first: &amp;ldquo;sobriety is the counterweight that must balance our success&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;The second: on how many successful people don&amp;rsquo;t have flashy houses or designer clothes, and you probably have never heard of them.&lt;/p&gt;
-
-&lt;p&gt;That hammers again on my dilemma on the Twitter followers count, and on having been rejected as a speaker for Playgrounds. Is not about those vanity metrics, it&amp;rsquo;s about actually getting the job done.&lt;/p&gt;
-
-&lt;h2 id=&#34;part-3-failure&#34;&gt;Part 3: Failure&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;I found this part less insightful than the other two. I felt less compelled to write down things after each chapter. Or it could just be me and the condition in which I&amp;rsquo;m listening  ¯_(ツ)&lt;/em&gt;/¯ _&lt;/p&gt;
-
-&lt;p&gt;The business woman &lt;strong&gt;[name and link needed]&lt;/strong&gt; example shows that shit happens even if you don&amp;rsquo;t deserve it, but you can still make the most of it.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Malcolm_X&#34;&gt;Malcom X&lt;/a&gt; kinda says the same, only in his case he got himself into troubles, and the way he made the best of it was to spend all that free time in jail to study and better himself.&lt;/p&gt;
-
-&lt;p&gt;The roman general &lt;strong&gt;[name and link needed]&lt;/strong&gt; example show that yes life can be unfair and you might need be thrown shit at, but that doesn&amp;rsquo;t mean you should not do the right thing anyway, just winge about it, or be sour.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I haven&amp;rsquo;t retained much of the last part. I&amp;rsquo;ll possibly come back again in an year or so when I will read the book one more time.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I&amp;rsquo;m super happy of having bought and read, listened to actually, this book.&lt;/p&gt;
-
-&lt;p&gt;Full of insights, never boring or conflated to make it longer. I&amp;rsquo;m writing this a few weeks after having finished it, and I have found myself thinking about it many times since.&lt;/p&gt;
-
-&lt;p&gt;In particular what the different chapters gave me is a multifaceted picture of a concept that I would put in words as &amp;ldquo;there&amp;rsquo;s work to be done, don&amp;rsquo;t let your ego get in the way of it.&amp;rdquo;&lt;/p&gt;
-</description>
+      <description>This are my rather not organized notes from Ego Is The Enemy by Ryan Holiday.
+Books &amp;ldquo;about philosophy&amp;rdquo;, with a cover image pointing at ancient Greece and Rome, are not what I usually read. But I&amp;rsquo;m very glad I read this. Partially inspired by the will of going out of my filter bubble (as learnt from &amp;ldquo;The Inevitable&amp;rdquo;), event though this book is not completely out of it, as it has been recommended by the engine in Audible, marked as one of the best books of 2016, and read by some friends.</description>
     </item>
     
     <item>
@@ -170,45 +37,11 @@
       <pubDate>Thu, 08 Sep 2016 09:23:12 +1000</pubDate>
       
       <guid>https://mokagio.github.io/not-a-journal/post/2016-09-08-deliberate-practice/</guid>
-      <description>&lt;p&gt;The podcast &lt;a href=&#34;https://spec.fm/podcasts/developer-tea&#34;&gt;Developer Tea&lt;/a&gt; recently released a two part series on deliberate
-practice (&lt;a href=&#34;https://spec.fm/podcasts/developer-tea/45636&#34;&gt;part 1&lt;/a&gt; and &lt;a href=&#34;https://spec.fm/podcasts/developer-tea/45637&#34;&gt;part 2&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;I first read about deliberate practice in &amp;ldquo;&lt;a href=&#34;https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124&#34;&gt;So Good They Can&amp;rsquo;t Ignore
-You&lt;/a&gt;&amp;rdquo; by Cal
-Newport.&lt;/p&gt;
-
-&lt;p&gt;The concept is very attractive, and it has been proven very effective for
-athletes and musicians. But how can I build a deliberate practice strategy for
-my software development skills?&lt;/p&gt;
-
-&lt;p&gt;Does it even make sense?&lt;/p&gt;
-
-&lt;p&gt;It probably does, but only for a subset of things I guess. For example:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vim/Emacs skills&lt;/li&gt;
-&lt;li&gt;Refactoring techniques&lt;/li&gt;
-&lt;li&gt;Using patterns&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I thinks all those are valuable, I myself am very serious about touch-typing
-and shaving off keystrokes from my Vim workflows, but do they really make you a
-&lt;em&gt;better&lt;/em&gt; developer?&lt;/p&gt;
-
-&lt;p&gt;I think the real skills that a software developer should hone are problem
-solving and the ability to learn new things.&lt;/p&gt;
-
-&lt;p&gt;That is why I guess I am less interested into deliberate practice as a way to
-write code faster, but more as way to improve these &lt;em&gt;lower level&lt;/em&gt; skills.&lt;/p&gt;
-
-&lt;p&gt;I don&amp;rsquo;t have a recipe for deliberately practicing problem solving or learning.
-At the moment these are only two guidelines I have:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Try to solve a little logic puzzle every day&lt;/li&gt;
-&lt;li&gt;When choosing a book to read, a new programming language or framework, anything new to learn, choose things that will grow your &lt;em&gt;area of knowledge&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>The podcast Developer Tea recently released a two part series on deliberate practice (part 1 and part 2).
+I first read about deliberate practice in &amp;ldquo;So Good They Can&amp;rsquo;t Ignore You&amp;rdquo; by Cal Newport.
+The concept is very attractive, and it has been proven very effective for athletes and musicians. But how can I build a deliberate practice strategy for my software development skills?
+Does it even make sense?
+It probably does, but only for a subset of things I guess.</description>
     </item>
     
     <item>
@@ -217,13 +50,8 @@ At the moment these are only two guidelines I have:&lt;/p&gt;
       <pubDate>Tue, 30 Aug 2016 09:54:41 +1000</pubDate>
       
       <guid>https://mokagio.github.io/not-a-journal/post/2016-08-30-what-to-automate/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://devchat.tv/freelancers/216-fs-automation&#34;&gt;Episode 216&lt;/a&gt; of &amp;ldquo;The
-Freelancers&amp;rsquo; Show&amp;rdquo; has a great and original conversation on automation.&lt;/p&gt;
-
-&lt;p&gt;Unlike many other posts and podcasts on the topic, this one focus on how to
-find out what to automate, and why you should -or shouldn&amp;rsquo;t- automate
-something.&lt;/p&gt;
-</description>
+      <description>Episode 216 of &amp;ldquo;The Freelancers&amp;rsquo; Show&amp;rdquo; has a great and original conversation on automation.
+Unlike many other posts and podcasts on the topic, this one focus on how to find out what to automate, and why you should -or shouldn&amp;rsquo;t- automate something.</description>
     </item>
     
     <item>
@@ -232,25 +60,11 @@ something.&lt;/p&gt;
       <pubDate>Mon, 29 Aug 2016 17:58:17 +1000</pubDate>
       
       <guid>https://mokagio.github.io/not-a-journal/post/2016-08-28-measure-twice-cut-once/</guid>
-      <description>&lt;p&gt;In an otherwise usual conversation about Agile-slash-Scrum which tells the same
-old story, Matt -the host- mentioned the carpentry rule:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Measure Twice, Cut Once&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I think that&amp;rsquo;s a quite cool rule, and I shall keep it close to my heart.&lt;/p&gt;
-
-&lt;p&gt;I am a software developer to the core. My ideal work day is composed of only
-coding, no meeting, no emails, only code.&lt;/p&gt;
-
-&lt;p&gt;I am aware though that &amp;ldquo;just coding&amp;rdquo; or start coding without a plan can be, and
-most likely will be, counter productive.&lt;/p&gt;
-
-&lt;p&gt;I shall keep the catchy &amp;ldquo;&lt;em&gt;Measure Twice, Cut Once&lt;/em&gt;&amp;rdquo; rule close to heart to
-remind myself that yes, estimations sucks, but at least having a plan an being
-able to prioritize what to work on is useful and will make coding easier.&lt;/p&gt;
-</description>
+      <description>In an otherwise usual conversation about Agile-slash-Scrum which tells the same old story, Matt -the host- mentioned the carpentry rule:
+ Measure Twice, Cut Once
+ I think that&amp;rsquo;s a quite cool rule, and I shall keep it close to my heart.
+I am a software developer to the core. My ideal work day is composed of only coding, no meeting, no emails, only code.
+I am aware though that &amp;ldquo;just coding&amp;rdquo; or start coding without a plan can be, and most likely will be, counter productive.</description>
     </item>
     
     <item>
@@ -259,22 +73,9 @@ able to prioritize what to work on is useful and will make coding easier.&lt;/p&
       <pubDate>Fri, 26 Aug 2016 07:22:59 +1000</pubDate>
       
       <guid>https://mokagio.github.io/not-a-journal/post/2016-08-25-remote-work-laura-elizabeth/</guid>
-      <description>&lt;p&gt;In &lt;a href=&#34;https://freelancetransformation.com/blog/find-and-work-with-clients-remotely-with-laura-elizabeth&#34;&gt;episode 76 of the freelance transformation
-podcast&lt;/a&gt;
-Matt interviews Laura, a freelance solo designer that works entirely remotely.&lt;/p&gt;
-
-&lt;p&gt;There are a lot of good tips spread across the interview, but here&amp;rsquo;s my
-favourites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Send new clients a Starbucks/Costa/Café gift card.&lt;/li&gt;
-&lt;li&gt;Try to guest post in blogs where your target market hangs out. &lt;em&gt;Note that these are probably different from the ones where you hang out.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Use copy that connects in your website. One of her landing page says &amp;ldquo;Websites as beautiful as the code behind them&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Ask for referrals.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://calendly.com/&#34;&gt;https://calendly.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Have a &amp;ldquo;client zone&amp;rdquo; where all the deliverables and the status updates for the client are stored, so that they can acces it without calling you. Helps a lot with different time zones. Could be as simple as a Dropbox folder.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>In episode 76 of the freelance transformation podcast Matt interviews Laura, a freelance solo designer that works entirely remotely.
+There are a lot of good tips spread across the interview, but here&amp;rsquo;s my favourites:
+ Send new clients a Starbucks/Costa/Café gift card. Try to guest post in blogs where your target market hangs out. Note that these are probably different from the ones where you hang out. Use copy that connects in your website.</description>
     </item>
     
     <item>
@@ -283,19 +84,9 @@ favourites:&lt;/p&gt;
       <pubDate>Wed, 24 Aug 2016 08:06:10 +1000</pubDate>
       
       <guid>https://mokagio.github.io/not-a-journal/post/2016-08-24-17-equations-11/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Maxwell%27s_equations&#34;&gt;Maxwell&amp;rsquo;s equations&lt;/a&gt; are the
-11th equations of the book &amp;ldquo;&lt;a href=&#34;https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989&#34;&gt;In Pursuit of the Unknown: 17 Equations That
-Changed the
-World&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s brush over the fact that I have completely forgotten how to handle the mathematics needed to manipulated them from Uni, and talk about some cool things.&lt;/p&gt;
-
-&lt;p&gt;I like how Maxwell derived his equations from the many experiments and machines built by &lt;a href=&#34;https://en.wikipedia.org/wiki/Michael_Faraday&#34;&gt;Faraday&lt;/a&gt;. It&amp;rsquo;s like he polished Faraday&amp;rsquo;s work, or better removed the inessential part and uncovered the shiny mathematical laws that made it possible.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s also fascinating how these four equations are the first ones to unify two forces of nature. They proved how electricity and magnetism are actually two sides of the same coin: the electromagnetical force.&lt;/p&gt;
-
-&lt;p&gt;Finally, the realization that light behaves like a wave, and that it&amp;rsquo;s spectrum is way wider that visible plus ultraviolet and infrared, and the new series of discoveries and inventions it produced is inspiring.&lt;/p&gt;
-</description>
+      <description>Maxwell&amp;rsquo;s equations are the 11th equations of the book &amp;ldquo;In Pursuit of the Unknown: 17 Equations That Changed the World&amp;rdquo;.
+Let&amp;rsquo;s brush over the fact that I have completely forgotten how to handle the mathematics needed to manipulated them from Uni, and talk about some cool things.
+I like how Maxwell derived his equations from the many experiments and machines built by Faraday. It&amp;rsquo;s like he polished Faraday&amp;rsquo;s work, or better removed the inessential part and uncovered the shiny mathematical laws that made it possible.</description>
     </item>
     
     <item>
@@ -304,24 +95,9 @@ World&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
       <pubDate>Tue, 23 Aug 2016 19:22:27 +1000</pubDate>
       
       <guid>https://mokagio.github.io/not-a-journal/post/2016-08-23-17-equations-10/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations&#34;&gt;Navier-Stokes
-equation&lt;/a&gt; is the
-10th equation of the book &amp;ldquo;&lt;a href=&#34;https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989&#34;&gt;In Pursuit of the Unknown: 17 Equations That
-Changed the
-World&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;This equation relates the acceleration of a small region of fluid with the
-forces that act on it.&lt;/p&gt;
-
-&lt;p&gt;The fact that this equation is at the base of the mathematical models used to
-design airplanes already makes it interesting, but what I found fascinating are
-its application to the study of how blood flows in our veins and arteries, and
-&amp;ldquo;climate change&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;The fact that researchers are developing models in the attempt of understanding
-the flow of oceans and atmosphere on our planets using a 3-dimensional grid and
-applying a version of the Navies-Stokes equation to it is super cool.&lt;/p&gt;
-</description>
+      <description>The Navier-Stokes equation is the 10th equation of the book &amp;ldquo;In Pursuit of the Unknown: 17 Equations That Changed the World&amp;rdquo;.
+This equation relates the acceleration of a small region of fluid with the forces that act on it.
+The fact that this equation is at the base of the mathematical models used to design airplanes already makes it interesting, but what I found fascinating are its application to the study of how blood flows in our veins and arteries, and &amp;ldquo;climate change&amp;rdquo;.</description>
     </item>
     
   </channel>
